@@ -1,0 +1,10 @@
+{
+  "name": "chroma-admin-ui",
+  "version": "1.0.0",
+  "description": "Developer Web UI for ChromaDB Vector Database",
+  "main": "index.js",
+  "dependencies": {
+    "chromadb": "^1.8.1",
+    "express": "^4.19.2"
+  }
+}
